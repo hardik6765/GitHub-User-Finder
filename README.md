@@ -2,4 +2,4 @@
 A simple web app to view public GitHub profiles by entering a username. Built using HTML, CSS, and JavaScript.
 
 ## 🖥️ Screenshot
-![Alternative text description](images/image.png)
+![Alternative text description](image.png)
