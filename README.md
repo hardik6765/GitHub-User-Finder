@@ -3,3 +3,6 @@ A simple web app to view public GitHub profiles by entering a username. Built us
 
 ## 🖥️ Screenshot
 ![Alternative text description](image.png)
+
+## 🔗 Live Demo
+http://127.0.0.1:5500/GitHub-Profile-Viewer-main/index.html
