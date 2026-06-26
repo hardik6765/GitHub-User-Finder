@@ -5,4 +5,4 @@ A simple web app to view public GitHub profiles by entering a username. Built us
 ![Alternative text description](image.png)
 
 ## 🔗 Live Demo
-hardik6765.github.io/Github-User-Finder/
+# hardik6765.github.io/Github-User-Finder/
